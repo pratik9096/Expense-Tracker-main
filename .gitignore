@@ -1,0 +1,43 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+
+# dotenv environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Mac system files
+*.DS_Store
+
+# Optional npm cache directory
+.npm/
+
+# Tailwind output
+*.css.map
+
+# Ignore everything in public if needed (optional, if no user uploads or dynamic content)
+# /public/static/
+
+# Optional debug/test folders
+coverage/
